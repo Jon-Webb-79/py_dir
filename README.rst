@@ -61,4 +61,4 @@ a virtual environment.
 
 4. Install packages to the virtual environment
 
-   ``pip install -r .poetry.lock
+   ``pip install -r .poetry.lock``
