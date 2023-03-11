@@ -29,7 +29,7 @@ as well as relevant doc-string and sphinx updates.
 
 License
 #######
-The License is included in the **project_name** package
+MIT License
 
 Requirements
 ############
