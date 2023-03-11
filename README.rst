@@ -62,3 +62,7 @@ a virtual environment.
 4. Install packages to the virtual environment
 
    ``pip install -r .poetry.lock``
+
+5. Delete the .git folder
+
+6. Change the name of the directory and code directory from ``py_dir`` to the users desired name.
